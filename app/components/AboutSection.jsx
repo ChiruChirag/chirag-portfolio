@@ -82,13 +82,15 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          Hey there! I'm Chirag, a B.Tech student with a passion for Web Development and AIML. I love diving into new concepts and technologies, always seeking to expand my skills.          </p><br></br>
-         <p className="text-base lg:text-lg">
-         In addition to crafting captivating websites, I enjoy exploring the intricacies of AIML, using it to tackle complex challenges with innovative solutions. My proficiency in image processing adds depth to my skill set, enabling me to address a wide range of problems effectively.
-         </p><br></br>
-         <p className="text-base lg:text-lg">
-         But beyond technical expertise,I'm all about teamwork. With strong leadership qualities and excellent communication skills, I foster collaboration to drive projects forward. Let's embark on this journey of exploration and growth together!
-         </p>
+  Hey there! I&apos;m Chirag, a B.Tech student with a passion for Web Development and AIML. I love diving into new concepts and technologies, always seeking to expand my skills.
+</p>
+<p className="text-base lg:text-lg">
+  In addition to crafting captivating websites, I enjoy exploring the intricacies of AIML, using it to tackle complex challenges with innovative solutions. My proficiency in image processing adds depth to my skill set, enabling me to address a wide range of problems effectively.
+</p>
+<p className="text-base lg:text-lg">
+  But beyond technical expertise, I&apos;m all about teamwork. With strong leadership qualities and excellent communication skills, I foster collaboration to drive projects forward. Let&apos;s embark on this journey of exploration and growth together!
+</p>
+
 
           <div className="flex flex-row justify-start mt-8"style={{ fontSize: '2.0rem' }}>
             <TabButton
