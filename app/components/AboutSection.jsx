@@ -10,13 +10,13 @@ const TAB_DATA = [
     content: (
         <ul className="list-disc pl-2 text-lg">
         <li>
-          <strong>Languages</strong>: Python, C, HTML, SQL, CSS, JAVA, C++
+          <strong>Languages</strong>: Python, C, HTML, SQL, CSS, JAVA,
         </li><br></br>
         <li>
           <strong>Technologies</strong>: Next.js, React.js, Express.js, Node.js
         </li><br></br>
         <li>
-          <strong>Concepts</strong>: Data Structures, Operating System, Artificial Intelligence, Machine Learning, Neural Networks, Agile Methodology, Cloud Computing
+          <strong>Concepts</strong>: Gen AI, Data Structures, Operating System, Artificial Intelligence, Machine Learning, Neural Networks, Agile Methodology, Cloud Computing
         </li>
       </ul>
     ),
@@ -29,7 +29,7 @@ const TAB_DATA = [
         <li>
           <strong>PES University</strong> (Expected May 2025)
           <br />
-          BTech in Computer Science (GPA: 8.73 / 10.00)
+          BTech in Computer Science (GPA: 8.76 / 10.00)
           <br />
           Bangalore, Karnataka
         </li><br></br>
